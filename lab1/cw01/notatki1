@@ -1,0 +1,20 @@
+na temat 1
+przygotować oprogramowanie do rozwiązywania układów równań metodą eliminacji gaussa
+dane macierz A, wyliczamy B, zapominamy, ża mamy x i sprawdzamy 
+
+dobre i złe uwarunkoanie ukłdów
+
+miernik różnicy pomiędzy dwoma rozwiązaniami (normy z wektora)
+
+język, w którym można ustawić precyzję oblilczeń i przechowywania
+
+DO DOMU: sprawko + zadanie z układami z macierzą trójdiagonalną (metoda thomasa - wariacja układu gaussa) + mierzenie różnicy w czasach
+
+0-20 pkt za zadanie, na zaliczenie oddane wszystkie i 50% punktów
+
+sprawozdania.pdf =temat + inf. techniczna(język, kompilator, maszyna) + biblioteki ( dwa razy na semestr) + program + informacje o przebiegu 
++ co było badane + wyniki + forma prezentachji (tabelki, wykresy) + wnioski (mniej niż 10 stron)
+
+temat2: metody iteracyjne
+
+temat3: równania nieliniowe
